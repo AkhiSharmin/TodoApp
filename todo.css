@@ -145,6 +145,8 @@ main{
     var(--purple));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    margin-right: 10px ;
+    cursor: pointer;
 }
 
 .task .actions .delete{
